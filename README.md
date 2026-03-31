@@ -66,7 +66,7 @@ Java-DSA/
 │── README.md
 ⚙️ How to Use
 Clone the repository:
-git clone https://github.com/your-username/java-dsa.git
+git clone https://github.com/Saumy003/java-dsa.git
 Navigate through topics step-by-step
 Run and practice each program
 Try modifying code to strengthen understanding
